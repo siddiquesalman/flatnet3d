@@ -1,2 +1,2 @@
 Find the checkpoint at:
-https://www.dropbox.com/s/d72bskg1swxaaal/model_2dunet_50dB_reg_50.pt?dl=0
+https://www.dropbox.com/s/6f73g58iem9iip3/model_2dunet_50dB_reg_48.pt?dl=0
