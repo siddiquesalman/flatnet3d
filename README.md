@@ -1,4 +1,4 @@
-# flatnet3d
+# FlatNet3D
 Official test code for *FlatNet3D: intensity and absolute depth from single-shot lensless capture,* Optica JOSA A (2022)
 
 Use the ```flatnet3d_test.ipynb``` for testing. Before using it, please note the following instructions:
